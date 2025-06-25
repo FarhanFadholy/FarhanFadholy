@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="center">Hallo brother, I'm farhan fadholy, a junior front-end developer 👨‍💻</h2>
+<h2 align="center">Hello Brother, I'm farhan fadholy, a junior front-end developer 👨‍💻</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello, I'm Farhan Fadholy, a Junior Front-End Developer 👨‍💻</p>
+<p align="left">👋 Hi! I'm Farhan Fadholy, a junior front-end developer with a passion for building responsive and user-friendly websites.  <br>💻 I enjoy working with React.js, Tailwind CSS, and modern web technologies.  <br>🎯 I'm always looking to learn and grow as a developer!</p>
 
 ###
 
