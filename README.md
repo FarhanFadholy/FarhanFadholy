@@ -15,15 +15,20 @@
 
 ###
 
-<h2 align="center">Hello Brother, I'm farhan fadholy, a junior front-end developer 👨‍💻</h2>
+<h2 align="center">
+  <pre>Hello Brother, I'm Farhan Fadholy, a junior front-end developer 👨‍💻</pre>
+</h2>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<pre align="left">
+👋 Hi! I'm Farhan Fadholy, a junior front-end developer with a passion for building responsive and user-friendly websites.
+💻 I enjoy working with React.js, Tailwind CSS, and modern web technologies.
+🎯 I'm always looking to learn and grow as a developer!
+</pre>
 
-<p align="left">👋 Hi! I'm Farhan Fadholy, a junior front-end developer with a passion for building responsive and user-friendly websites.  <br>💻 I enjoy working with React.js, Tailwind CSS, and modern web technologies.  <br>🎯 I'm always looking to learn and grow as a developer!</p>
 
 ###
 
