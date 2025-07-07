@@ -16,7 +16,7 @@
 ###
 
 <h2 align="center">
-  <pre>Hello Brother, I'm Farhan Fadholy, a junior front-end developer 👨‍💻</pre>
+  <pre>Hello, I'm Farhan Fadholy, a junior front-end developer 👨‍💻</pre>
 </h2>
 
 ###
