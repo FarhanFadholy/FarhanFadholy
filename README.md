@@ -2,7 +2,7 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l3dHkybG1iZXRmbGd1YXhoZTc5MXR0cnp5NWJoNmoxeTVrZm40dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/FarhanFadholy" target="_blank">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-###
+
 
 <h2 align="center">
   <pre>Hello, I'm Farhan Fadholy, a junior front-end developer 👨‍💻</pre>
