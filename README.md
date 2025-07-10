@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👩‍💻 ABOUT ME</h3>
 
 <pre align="left">
 👋 Hi! I'm Farhan Fadholy, a junior front-end developer with a passion for building responsive and user-friendly websites.
