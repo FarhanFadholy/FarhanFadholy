@@ -19,7 +19,7 @@
   <pre>Hello, I'm Farhan Fadholy, a junior front-end developer 👨‍💻</pre>
 </h2>
 
-###
+
 
 <h3 align="left">👩‍💻 ABOUT ME</h3>
 
@@ -30,7 +30,7 @@
 </pre>
 
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -66,4 +66,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
